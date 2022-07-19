@@ -1,0 +1,16 @@
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\bin\Debug\net5.0\atividade_CLASSE.exe
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\bin\Debug\net5.0\atividade_CLASSE.deps.json
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\bin\Debug\net5.0\atividade_CLASSE.runtimeconfig.json
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\bin\Debug\net5.0\atividade_CLASSE.runtimeconfig.dev.json
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\bin\Debug\net5.0\atividade_CLASSE.dll
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\bin\Debug\net5.0\ref\atividade_CLASSE.dll
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\bin\Debug\net5.0\atividade_CLASSE.pdb
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\obj\Debug\net5.0\atividade_CLASSE.csproj.AssemblyReference.cache
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\obj\Debug\net5.0\atividade_CLASSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\obj\Debug\net5.0\atividade_CLASSE.AssemblyInfoInputs.cache
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\obj\Debug\net5.0\atividade_CLASSE.AssemblyInfo.cs
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\obj\Debug\net5.0\atividade_CLASSE.csproj.CoreCompileInputs.cache
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\obj\Debug\net5.0\atividade_CLASSE.dll
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\obj\Debug\net5.0\ref\atividade_CLASSE.dll
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\obj\Debug\net5.0\atividade_CLASSE.pdb
+C:\Users\jeano\Desktop\Generation\Exercicios\atividade_CLASSE\atividade_CLASSE\obj\Debug\net5.0\atividade_CLASSE.genruntimeconfig.cache
